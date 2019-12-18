@@ -1,0 +1,12 @@
+{
+  "Equipo Personal": [
+    {
+      "id": 0,
+      "name": "CPU"
+    },
+    {
+      "id": 1,
+      "name": "Laptop"
+    }
+  ]
+}

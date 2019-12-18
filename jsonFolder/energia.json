@@ -1,0 +1,12 @@
+{
+  "energia": [
+    {
+      "id": 0,
+      "name": "regulador"
+    },
+    {
+      "id": 1,
+      "name": "nobreak"
+    }
+  ]
+}
